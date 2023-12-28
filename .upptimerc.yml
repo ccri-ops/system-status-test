@@ -7,6 +7,8 @@ sites:
     url: https://www.ccri.edu
   - name: SSO
     url: https://sts.ccri.edu/cas/login
+  - name: Connect2
+    url: https://connect2.ccri.edu:10443
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
