@@ -11,6 +11,8 @@ sites:
     url: https://connect2.ccri.edu:10443
   - name: Banner
     url: https://admin.ccri.edu/applicationNavigator/actuator/health
+  - name: TestDown
+    url: https://test.example.org/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
