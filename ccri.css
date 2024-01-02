@@ -1,5 +1,5 @@
 /* Dark Theme */
-
+/*
 :root {
     --body-background-color: #001716;
     --body-text-color: #f0ffff;
@@ -26,6 +26,8 @@
     --graph-opacity: 1;
     --graph-filter: none;
   }
+*/
+
 body {
   margin: 0;
   font-family: "Gill Sans MT", sans-serif;
@@ -59,4 +61,9 @@ body {
   --submit-button-color: #ffffff;
   --graph-opacity: 1;
   --graph-filter: none;
+}
+
+/* make nav bar text white */
+nav a {
+  color: white;
 }
