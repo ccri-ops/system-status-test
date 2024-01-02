@@ -18,7 +18,7 @@ status-website:
   #cname: demo.upptime.js.org
   baseUrl: /Uptime-checks
   logoUrl: https://bannerweb.ccri.edu/CCRI_Logo_White_1in.svg
-  #themeUrl: /Uptime-checks/ccri.css
+  themeUrl: https://greend139.github.io/Uptime-checks/ccri.css
   name: CCRI System Status
   introTitle: "System Status & Maintenance"
   introMessage: Production Systems, **real-time** data is from our [GitHub repository](https://github.com/greend139/Uptime-checks).
