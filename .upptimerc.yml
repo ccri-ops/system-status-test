@@ -31,7 +31,7 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 
 i18n:
-  footer: [CCRI](https://ccri.edu) - This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
+  footer: "[CCRI](https://ccri.edu) - This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)"
 
 commitMessages:
   commitAuthorName: "CCRI Upptime Bot"
