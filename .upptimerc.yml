@@ -16,7 +16,7 @@ status-website:
   #cname: demo.upptime.js.org
   baseUrl: /Uptime-checks
   logoUrl: https://bannerweb.ccri.edu/CCRI_Logo_White_1in.svg
-  themeUrl: /$REPO/ccri.css
+  themeUrl: /Uptime-checks/ccri.css
   name: CCRI System Status
   introTitle: "System Status / Maintenance"
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
@@ -25,6 +25,9 @@ status-website:
       href: /$REPO
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+i18n:
+  footer: CCRI - This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
 
 commitMessages:
   commitAuthorName: "CCRI Upptime Bot"
