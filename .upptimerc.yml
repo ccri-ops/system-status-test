@@ -21,7 +21,7 @@ status-website:
   themeUrl: https://status.ccri.edu/ccri.css
   name: CCRI System Status
   introTitle: "System Status & Maintenance"
-  introMessage: Production Systems, **real-time** data is from our [GitHub repository](https://github.com/greend139/Uptime-checks).
+  introMessage: Production Systems, **real-time** data is from our [GitHub repository](https://github.com/$OWNER/$REPO).
   navbar:
     - title: Status
       href: /
