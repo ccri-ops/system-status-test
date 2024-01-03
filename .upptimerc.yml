@@ -27,8 +27,6 @@ status-website:
       href: /
     - title: IT Helpdesk
       href: https://ccri.edu/it/helpdesk
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 i18n:
   footer: "[CCRI](https://ccri.edu) - This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)"
