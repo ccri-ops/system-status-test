@@ -4,7 +4,7 @@ repo: system-status # The name of this repository
 
 sites:
   - name: Website
-    url: https://www.ccri.edu
+    url: http://216.19.113.199
   #- name: Single Sign-on
   #  url: https://sts.ccri.edu/cas/login
   #- name: VPN Connect2
