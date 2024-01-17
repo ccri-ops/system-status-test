@@ -27,7 +27,7 @@ status-website:
     - title: Status
       href: /
     - title: IT Helpdesk
-      href: https://ccri.edu/it/helpdesk
+      href: https://ccri.teamdynamix.com/TDClient/Home/
 
 i18n:
   footer: "[CCRI](https://ccri.edu) - This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)"
