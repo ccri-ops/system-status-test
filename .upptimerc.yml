@@ -22,6 +22,7 @@ status-website:
   name: CCRI System Status
   introTitle: "System Status & Maintenance"
   introMessage: "Systems and Services are checked every 5 minutes."
+  customBodyHtml: "<center>::CLOUDFLARE_ERROR_500S_BOX::</center>"
   navbar:
     - title: Status
       href: /
