@@ -4,7 +4,7 @@
     "url": "https://www.ccri.edu",
     "icon": "https://icons.duckduckgo.com/ip3/www.ccri.edu.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,60 +15,8 @@
     "timeWeek": 319,
     "timeMonth": 266,
     "timeYear": 266,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "Single Sign-on",
-    "url": "https://sts.ccri.edu/cas/login",
-    "icon": "https://icons.duckduckgo.com/ip3/sts.ccri.edu.ico",
-    "slug": "single-sign-on",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 255,
-    "timeDay": 137,
-    "timeWeek": 276,
-    "timeMonth": 255,
-    "timeYear": 255,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "VPN Connect2",
-    "url": "https://connect2.ccri.edu:10443",
-    "icon": "https://icons.duckduckgo.com/ip3/connect2.ccri.edu.ico",
-    "slug": "vpn-connect2",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 231,
-    "timeDay": 169,
-    "timeWeek": 277,
-    "timeMonth": 231,
-    "timeYear": 231,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "Banner",
-    "url": "https://admin.ccri.edu/applicationNavigator/actuator/health",
-    "icon": "https://icons.duckduckgo.com/ip3/admin.ccri.edu.ico",
-    "slug": "banner",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 320,
-    "timeDay": 270,
-    "timeWeek": 361,
-    "timeMonth": 320,
-    "timeYear": 320,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-17": 0
+    }
   }
 ]
