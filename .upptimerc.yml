@@ -5,12 +5,12 @@ repo: system-status # The name of this repository
 sites:
   - name: Website
     url: https://www.ccri.edu
-  - name: Single Sign-on
-    url: https://sts.ccri.edu/cas/login
-  - name: VPN Connect2
-    url: https://connect2.ccri.edu:10443
-  - name: Banner
-    url: https://admin.ccri.edu/applicationNavigator/actuator/health
+  #- name: Single Sign-on
+  #  url: https://sts.ccri.edu/cas/login
+  #- name: VPN Connect2
+  #  url: https://connect2.ccri.edu:10443
+  #- name: Banner
+  #  url: https://admin.ccri.edu/applicationNavigator/actuator/health
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
