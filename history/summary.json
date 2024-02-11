@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/216.19.113.199.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "98.69%",
+    "uptime": "98.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.35%",
-    "uptimeYear": "98.69%",
-    "time": 267,
-    "timeDay": 407,
-    "timeWeek": 215,
-    "timeMonth": 279,
-    "timeYear": 267,
+    "uptimeYear": "98.72%",
+    "time": 264,
+    "timeDay": 103,
+    "timeWeek": 216,
+    "timeMonth": 263,
+    "timeYear": 264,
     "dailyMinutesDown": {
       "2024-01-17": 724
     }
