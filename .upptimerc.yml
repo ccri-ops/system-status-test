@@ -18,7 +18,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.ccri.edu
   #baseUrl: /Uptime-checks
-  logoUrl: https://bannerweb.ccri.edu/CCRI_Logo_White_1in.svg
+  logoUrl: https://github.com/ccri-ops/system-status/raw/master/assets/CCRI_Logo_White_1in.svg
   themeUrl: https://status.ccri.edu/ccri.css
   name: CCRI System Status
   introTitle: "System Status & Maintenance"
