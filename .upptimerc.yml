@@ -8,8 +8,9 @@ sites:
     __dangerous__insecure: true
   #- name: Single Sign-on
   #  url: https://sts.ccri.edu/cas/login
-  #- name: VPN Connect2
-  #  url: https://connect2.ccri.edu:10443
+  - name: VPN Client
+    url: https://connect2.ccri.edu:10443
+    #__dangerous__insecure: true
   #- name: Banner
   #  url: https://admin.ccri.edu/applicationNavigator/actuator/health
 
