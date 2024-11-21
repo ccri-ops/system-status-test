@@ -22,7 +22,7 @@
     "url": "https://connect2.ccri.edu:10443",
     "icon": "https://icons.duckduckgo.com/ip3/connect2.ccri.edu.ico",
     "slug": "vpn-client",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +34,7 @@
     "timeMonth": 216,
     "timeYear": 224,
     "dailyMinutesDown": {
+      "2024-11-21": 0,
       "2024-10-05": 1099,
       "2024-10-04": 406
     }
