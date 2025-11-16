@@ -1,7 +1,7 @@
 url: https://connect2.ccri.edu:10443
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-11-16T04:24:16.881Z
+status: up
+code: 200
+responseTime: 127
+lastUpdated: 2025-11-16T20:18:57.442Z
 startTime: 2024-05-17T02:46:41.497Z
 generator: Upptime <https://github.com/upptime/upptime>
